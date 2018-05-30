@@ -1,6 +1,6 @@
-# KiCAD Libraries for PhenixRobotik
+# KiCad Libraries for PhenixRobotik
 
-This repository contains KiCAD 5.0 compatible libraries for the PhenixRobotik boards.
+This repository contains KiCad 5.0 compatible libraries for the PhenixRobotik boards.
 
 * `library/`
 
@@ -17,6 +17,10 @@ This repository contains KiCAD 5.0 compatible libraries for the PhenixRobotik bo
 
 
 Please verify the compliancy of the libraries before committing ;)
+
+[The KiCad Library Convention is available here.](
+  http://kicad-pcb.org/libraries/klc
+)
 
 [The official checking tools are available here.](
   https://github.com/kicad/kicad-library-utils
