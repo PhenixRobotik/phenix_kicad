@@ -16,6 +16,8 @@ This repository contains KiCad 5.0 compatible libraries for the PhenixRobotik bo
   contains 3d packages for visualization purposes
 
 
+# KiCad Library Convention
+
 Please verify the compliancy of the libraries before committing ;)
 
 [The KiCad Library Convention is available here.](
