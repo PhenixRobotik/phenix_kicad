@@ -1,10 +1,12 @@
-(module LOGO (layer F.Cu)
-  (at 0 0)
- (fp_text reference "G***" (at 0 0) (layer F.SilkS) hide
-  (effects (font (thickness 0.3)))
+(module Logo_16,9mm (layer F.Cu)
+  (descr https://github.com/PhenixRobotik)
+  (tags Logo)
+  (attr virtual)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
+  (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
-  (effects (font (thickness 0.3)))
+  (fp_text value Logo_16,9mm (at 0.75 0) (layer F.Fab) hide
+  (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_poly (pts (xy 0.181168 3.182141) (xy 0.250783 3.241575) (xy 0.334032 3.307162) (xy 0.415818 3.367127) (xy 0.437074 3.381761) (xy 0.503576 3.429284) (xy 0.564438 3.477350) (xy 0.610481 3.518517)
      (xy 0.625180 3.534311) (xy 0.669431 3.603180) (xy 0.697748 3.685259) (xy 0.710298 3.784014) (xy 0.707249 3.902909) (xy 0.688771 4.045411) (xy 0.657676 4.203108) (xy 0.634534 4.312911)
