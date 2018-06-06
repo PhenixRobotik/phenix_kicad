@@ -6,10 +6,4 @@ K connector
 F https://github.com/PhenixRobotik/phenix_kicad
 $ENDCMP
 #
-$CMP LD1084V
-D 5A Adjustable low-drop positive regulator
-K REGULATOR LDO
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/b7/54/c3/89/22/4b/41/a3/CD00003086.pdf/files/CD00003086.pdf/jcr:content/translations/en.CD00003086.pdf
-$ENDCMP
-#
 #End Doc Library
