@@ -6,4 +6,10 @@ K connector
 F https://github.com/PhenixRobotik/phenix_kicad
 $ENDCMP
 #
+$CMP LTC4353
+D Dual Low Voltage Ideal Diode Controller
+K Dual Low Voltage Ideal Diode Controller
+F http://www.analog.com/media/en/technical-documentation/data-sheets/4353f.pdf
+$ENDCMP
+#
 #End Doc Library
