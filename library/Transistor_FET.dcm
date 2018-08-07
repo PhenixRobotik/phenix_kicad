@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDG1023NZ
+D 1.2A Id, 20V Vds, Dual P-Channel MOSFET, 175mOhm Ron, SC-70-6
+K Dual P-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/FD/FDG1024NZ.pdf
+$ENDCMP
+#
+#End Doc Library
