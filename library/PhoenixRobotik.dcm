@@ -12,6 +12,12 @@ K P-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6015D.pdf
 $ENDCMP
 #
+$CMP LP38693MP-ADJ
+D LP3869x-ADJ/Q1 500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors
+K LDO Linear Regulator adjustable
+F http://www.ti.com/lit/ds/snvs324k/snvs324k.pdf
+$ENDCMP
+#
 $CMP LTC4353_DFN
 D Dual Low Voltage Ideal Diode Controller (DFN Footprint with Pad)
 K Dual Low Voltage Ideal Diode Controller (DFN Footprint with Pad)
