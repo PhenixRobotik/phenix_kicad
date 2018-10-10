@@ -36,6 +36,12 @@ K Dual Low Voltage Ideal Diode Controller (MSOP Footprint)
 F http://www.analog.com/media/en/technical-documentation/data-sheets/4353f.pdf
 $ENDCMP
 #
+$CMP NMOS-T252
+D -35A Id, -60V Vds, P-Channel Power MOSFET, 25mOhm Ron, 25.0nC Qg (typ), TO252
+K P-Channel MOSFET
+F http://www.jaolen.com/images/pdf/QM6015D.pdf
+$ENDCMP
+#
 $CMP SN74LVC2T45
 D Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-23-6
 K Level-Shifter CMOS-TTL-Translation
