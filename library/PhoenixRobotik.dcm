@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HC164
+D 8-bit serial in, parallel-out shift register
+K CMOS 8-bit shift register
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf
+$ENDCMP
+#
 $CMP CAN_conn
 D CAN connector for PhenixRobotik
 K connector
