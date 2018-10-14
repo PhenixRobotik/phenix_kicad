@@ -54,4 +54,10 @@ K bidirectional voltage level translator
 F http://www.ti.com/lit/ds/symlink/txb0108.pdf
 $ENDCMP
 #
+$CMP VL53L0X
+D Time-of-Flight ranging and gesture detection sensor
+K time of flight TOF VL53L0X
+F https://www.st.com/resource/en/datasheet/vl53l0x.pdf
+$ENDCMP
+#
 #End Doc Library
