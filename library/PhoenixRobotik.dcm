@@ -12,6 +12,12 @@ K connector
 F https://github.com/PhenixRobotik/phenix_kicad
 $ENDCMP
 #
+$CMP Conn_Debug
+D Debug connector for PhoenixRobotik boards with NRST, SWD, UART and GND
+K connector
+F ~
+$ENDCMP
+#
 $CMP IRFR5305
 D -35A Id, -60V Vds, P-Channel Power MOSFET, 25mOhm Ron, 25.0nC Qg (typ), TO252
 K P-Channel MOSFET
