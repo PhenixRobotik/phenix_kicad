@@ -66,4 +66,10 @@ K time of flight TOF VL53L0X
 F https://www.st.com/resource/en/datasheet/vl53l0x.pdf
 $ENDCMP
 #
+$CMP VL6180X
+D Proximity and ambient light sensing module
+K ALS proximity ambient light VL6180X
+F https://www.st.com/resource/en/datasheet/vl6180x.pdf
+$ENDCMP
+#
 #End Doc Library
