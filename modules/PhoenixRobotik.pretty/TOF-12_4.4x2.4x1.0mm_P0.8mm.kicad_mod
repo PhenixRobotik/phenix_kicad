@@ -1,4 +1,4 @@
-(module TOF-12_4.4x2.4x1.0mm_P0.8mm (layer F.Cu) (tedit 5BC36E2B)
+(module TOF-12_4.4x2.4x1.0mm_P0.8mm (layer F.Cu) (tedit 5BD5E437)
   (descr "STMicroelectronics VL53L0X package, https://www.st.com/resource/en/datasheet/vl53l0x.pdf")
   (tags "TOF 4.4mm 2.4mm 1.0mm VL53L0X")
   (attr smd)
@@ -116,6 +116,11 @@
     (primitives
     ))
   (pad 4 smd custom (at -1.6 0) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad "" smd custom (at -0.8 -0.8) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
