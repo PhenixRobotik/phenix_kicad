@@ -13,7 +13,7 @@ F https://github.com/PhenixRobotik/phenix_kicad
 $ENDCMP
 #
 $CMP Conn_Debug
-D Debug connector for PhoenixRobotik boards with NRST, SWD, UART and GND
+D Debug connector for PhenixRobotik boards with NRST, SWD, UART and GND
 K connector
 F ~
 $ENDCMP

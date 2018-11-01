@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP L6207
-D DC Motor driver
-K L6207
-F https://github.com/auie.pdf
-$ENDCMP
-#
-#End Doc Library
