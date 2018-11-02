@@ -125,7 +125,7 @@
     (options (clearance outline) (anchor rect))
     (primitives
     ))
-  (model ${KISYS3DMOD}/PhoenixRobotik.3dshapes/TOF-12_4.4x2.4x1.0mm_P0.8mm.wrl
+  (model ${KISYS3DMOD}/PhenixRobotik.3dshapes/TOF-12_4.4x2.4x1.0mm_P0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
