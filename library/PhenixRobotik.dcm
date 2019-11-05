@@ -24,6 +24,18 @@ K P-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6015D.pdf
 $ENDCMP
 #
+$CMP L6388E
+D High voltage high and low-side driver
+K High voltage high and low-side driver
+F https://www.st.com/resource/en/datasheet/l6388e.pdf
+$ENDCMP
+#
+$CMP LM4991
+D 3W Audio Power Amplifier with Shutdown Mode
+K 3W Audio Power Amplifier with Shutdown Mode
+F http://www.ti.com/lit/ds/symlink/lm4991.pdf
+$ENDCMP
+#
 $CMP LP38693MP-ADJ
 D LP3869x-ADJ/Q1 500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors
 K LDO Linear Regulator adjustable
@@ -46,6 +58,24 @@ $CMP NMOS-T252
 D -35A Id, -60V Vds, P-Channel Power MOSFET, 25mOhm Ron, 25.0nC Qg (typ), TO252
 K P-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6015D.pdf
+$ENDCMP
+#
+$CMP SN74AHC1G08
+D Single 2-Input Positive-AND Gate
+K Single 2-Input Positive-AND Gate
+F http://www.ti.com/lit/ds/symlink/sn74ahc1g08.pdf
+$ENDCMP
+#
+$CMP SN74CB3Q3253
+D Dual 1-of-4 FET Multiplexer– Demultiplexer
+K Dual 1-of-4 FET Multiplexer– Demultiplexer
+F http://www.ti.com/lit/ds/symlink/sn74cb3q3253.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G32
+D Single 2-Input Positive-OR Gate
+K Single 2-Input Positive-OR Gate
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g32.pdf
 $ENDCMP
 #
 $CMP SN74LVC2T45
