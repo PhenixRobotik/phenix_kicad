@@ -54,6 +54,12 @@ K Dual Low Voltage Ideal Diode Controller (MSOP Footprint)
 F http://www.analog.com/media/en/technical-documentation/data-sheets/4353f.pdf
 $ENDCMP
 #
+$CMP MPX5500DP
+D Differential pressure sensor, 0 to 500kPa, analog output, integrated signal conditioning, temperature compensated, DIP package
+K absolute pressure sensor
+F http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf
+$ENDCMP
+#
 $CMP NMOS-T252
 D -35A Id, -60V Vds, P-Channel Power MOSFET, 25mOhm Ron, 25.0nC Qg (typ), TO252
 K P-Channel MOSFET
