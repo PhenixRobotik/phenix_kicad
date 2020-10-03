@@ -66,10 +66,10 @@ K P-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6015D.pdf
 $ENDCMP
 #
-$CMP SN74AHC1G08
-D Single 2-Input Positive-AND Gate
-K Single 2-Input Positive-AND Gate
-F http://www.ti.com/lit/ds/symlink/sn74ahc1g08.pdf
+$CMP SN74AHC1G08DBV
+D Single 2-Input Positive-AND Gate, SOT-23-5
+K single positive and gate
+F https://www.ti.com/lit/ds/symlink/sn74ahc1g08.pdf
 $ENDCMP
 #
 $CMP SN74CB3Q3253
